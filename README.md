@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 I’m BackEnd Developer 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEGARmine&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEGARmine&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEGARmine&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEGARmine&show_icons=true&theme=onedark) 
 
 
