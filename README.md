@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=No%Stack%To%FullStack&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=No%Stack%To%Full%Stack&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEGARmine&show_icons=true&theme=onedark)
 
 
