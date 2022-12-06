@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 I’m BackEnd Developer 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=No%Stack%To%-Full%Stack&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Just%20Study%20first%20the%20champion%20later!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=No%Stack%To%-Full%Stack&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Belajar%20aja%20dulu%20jagonya%20belakangan%20right!&descAlignY=51&descAlign=62)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEGARmine&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
