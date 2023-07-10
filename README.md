@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEGARmine&show_icons=true&theme=onedark) 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,javascript,go,nodejs,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vim,javascript,go,nodejs,docker,laravel,alpinejs,azure" />
   </a>
 </p>
 
